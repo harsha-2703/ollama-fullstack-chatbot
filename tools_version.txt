@@ -1,0 +1,4 @@
+Python 3.10.18
+ollama 0.11.8
+node v22.14.0
+npm 11.2.0
