@@ -41,7 +41,7 @@ npm run dev
 ```
 
 ### 3. Backend Setup (FastAPI + Ollama)
-## Option A: Using venv
+#### Option A: Using venv
 ```
 cd backend
 python -m venv venv
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-## Option B: Using conda
+#### Option B: Using conda
 ```
 conda create -n chatbot-env python=3.10.18
 conda activate chatbot-env
