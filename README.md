@@ -1,6 +1,6 @@
 # Fullstack Chatbot using Ollama, FastAPI, React, and TailwindCSS
 
-This is a full-stack AI chatbot project that integrates a **React + TailwindCSS** frontend with a **FastAPI** backend powered by **Ollama** (local LLMs like LLaMA2, Mistral, etc.).
+This is a full-stack AI chatbot project that integrates a **React + TailwindCSS** frontend with a **FastAPI** backend powered by **Ollama** (local LLMs like LLaMA3, Gemma3, etc.).
 
 ---
 
@@ -17,6 +17,7 @@ This is a full-stack AI chatbot project that integrates a **React + TailwindCSS*
 1. **Install Ollama**
    [Ollama GitHub Releases](https://github.com/ollama/ollama/releases) — version `v0.11.8`
 2. **Pull a model from ollama**
+   
    ```
    ollama pull model_name
    ```
@@ -25,6 +26,7 @@ This is a full-stack AI chatbot project that integrates a **React + TailwindCSS*
 
 ---
 
+## Getting Started
 ### 1. Clone the Repository
 ```
 git clone https://github.com/harsha-2703/ollama-fullstack-chatbot.git
