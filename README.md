@@ -63,6 +63,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+---
+
 ### Note
 * Frontend runs at: http://localhost:5173
 * Backend runs at: http://localhost:8000
