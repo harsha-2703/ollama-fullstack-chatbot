@@ -19,7 +19,7 @@ This is a full-stack AI chatbot project that integrates a **React + TailwindCSS*
 2. **Pull a model from ollama**
    
    ```
-   ollama pull model_name
+   ollama pull gemma3
    ```
 3. **Install node**
    [Download Node v22.14.0](https://nodejs.org/en/download/archive/v22.14.0)
