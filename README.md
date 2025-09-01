@@ -65,6 +65,6 @@ uvicorn main:app --reload
 
 ---
 
-### Note
+## Note
 * Frontend runs at: http://localhost:5173
 * Backend runs at: http://localhost:8000
